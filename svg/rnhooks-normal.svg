@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="251px" height="100px" viewBox="0 0 251 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>rehooks-logo-horizontal</title>
+    <title>rnhooks-normal</title>
     <desc>Created with Sketch.</desc>
-    <g id="rehooks-logo-horizontal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="251" height="100"></rect>
+    <g id="rnhooks-normal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
         <g id="Logo">
             <g id="layer2" fill="#020202" fill-rule="nonzero">
                 <polygon id="Path" points="0 50 0 0 50 0 100 0 100 50 100 100 50 100 0 100"></polygon>
@@ -23,8 +23,5 @@
             <path d="M86.3460334,49.4768353 C86.3624539,49.1635136 86.3566184,48.9559812 86.3543344,48.8956989 L84.851847,48.9329959 C84.8534925,48.961731 84.9985908,51.9712447 83.0692405,53.8306671 C81.8589986,54.9972311 80.0754436,55.4996547 77.7694173,55.3262782 C78.0259821,54.7237742 78.4241307,54.3989443 78.4241307,54.3989443 C73.8126714,54.9355613 70.8909357,50.8308101 70.8909357,50.8308101 C70.9115139,50.8882313 70.9349945,50.9467595 70.9598083,51.0053576 C72.7961784,55.7379345 77.4135503,56.7648988 77.5871945,56.7806838 C80.3709075,57.0029689 82.5584518,56.361284 84.0948267,54.8737556 C85.9386089,53.0891106 86.2869396,50.6044124 86.3460334,49.4768353 Z" id="Fill-17" fill="#000000" transform="translate(78.624083, 52.859657) rotate(-55.000000) translate(-78.624083, -52.859657) "></path>
             <path d="M44.9086746,20.3565207 C44.9250951,20.0431991 44.9192595,19.8356666 44.9169755,19.7753844 L43.4144882,19.8126814 C43.4161336,19.8414164 43.561232,22.8509301 41.6318817,24.7103526 C40.4216398,25.8769165 38.6380847,26.3793402 36.3320585,26.2059636 C36.5886233,25.6034596 36.9867719,25.2786297 36.9867719,25.2786297 C32.3753126,25.8152468 29.4535768,21.7104955 29.4535768,21.7104955 C29.474155,21.7679167 29.4976356,21.8264449 29.5224495,21.8850431 C31.3588195,26.6176199 35.9761915,27.6445842 36.1498356,27.6603693 C38.9335487,27.8826544 41.121093,27.2409694 42.6574679,25.7534411 C44.5012501,23.968796 44.8495807,21.4840979 44.9086746,20.3565207 Z" id="Fill-17" fill="#000000" transform="translate(37.186724, 23.739343) rotate(183.000000) translate(-37.186724, -23.739343) "></path>
         </g>
-        <text id="React-Native-Hooks" font-family="AvenirNext-Regular, Avenir Next" font-size="16" font-weight="normal" fill="#1A1919">
-            <tspan x="94.272" y="55">React Native Hooks</tspan>
-        </text>
     </g>
 </svg>
